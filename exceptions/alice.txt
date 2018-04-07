@@ -1,0 +1,8 @@
+{"imei": "232332", "id":"23487","data":"fdlajlfjalfldjflsjdfjsdljfalj","seqN":"003"}
+{"imei": "232132", "id":"23307","data":"fdlajlfjad;flksjkfldfssjdljf","seqN":"243"}
+{"imei": "232362", "id":"23477","data":"fdlajlfjalfldjfldfssjdfjsdljfalj","seqN":"231"}
+{"imei": "232432", "id":"23357","data":"fdlajlfjad;ffsdflksjkflsjdljf","seqN":"242"}
+{"imei": "232332", "id":"23417","data":"fdlajlfjafdslfldjflsjdfdsfjsdljfalj","seqN":"543"}
+{"imei": "232182", "id":"23347","data":"fdlajlfjad;flksjkflsjdljfsdfdsfkhjf","seqN":"232"}
+{"imei": "232332", "id":"23427","data":"fdlajlfjalfldjflsjdfjsdljfsdfalj","seqN":"324"}
+{"imei": "235732", "id":"23347","data":"fdlajlfjad;flksjkflsjdjghjghljf","seqN":"89"}

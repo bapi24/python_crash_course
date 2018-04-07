@@ -1,0 +1,5 @@
+I like working with Python, Python Crash Course helped me to practice Python.
+I love Python because of following reasons:
+  * It can be used for various purposes scripting, working with data
+  * Good for working with data
+  * Good with big data
